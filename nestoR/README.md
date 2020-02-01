@@ -12,9 +12,9 @@ Create deeply nested lists
 
 The `append`, `head`, `length`, and `tail` methods should be O(1).
 
-The `[`, and `as.list` methods are probably O(n), where n is number of items.
+The `as.list` method is probably O(n), where n is number of items.
 
-The `[` and `[[` methods are probably O(n - k), whre n is number of items and k is/are the index/indices of the item(s) selected.
+The `[` and `[[` methods are probably O(n - k), where k is/are the index/indices of the item(s) selected.
 
 ## Real Objects
 
