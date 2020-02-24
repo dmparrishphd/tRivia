@@ -11,6 +11,7 @@ Produce a `character array` by recursively `strsplit`-ing a
 
 ## ARGUMENTS
 
+|   |   |
 | :------- | :-- |
 | `string` | A `character` string (single-element `character vector`) |
 | :------- | :-- |
