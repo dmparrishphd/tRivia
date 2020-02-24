@@ -30,8 +30,8 @@ if necessary to create the appropriate shape.
 
 ## VALUE
 
-The return is an array having dimensions consistent with the
-splits.
+The return is a `character array` having dimensions consistent
+with the splits.
 
 ## EXAMPLES
 
