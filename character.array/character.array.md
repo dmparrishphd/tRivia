@@ -14,11 +14,8 @@ Produce a `character array` by recursively `strsplit`-ing a
 |   |   |
 | :------- | :-- |
 | `string` | A `character` string (single-element `character vector`) |
-| :------- | :-- |
 | `sep`    | A `character vector` containing the separators for each dimension of the `character array`. |
-| :------- | :-- |
 | `fixed`  | (passed to `strsplit`) |
-| :------- | :-- |
 | `...`    | (passed to `strsplit`) |
 
 ## DETAILS
