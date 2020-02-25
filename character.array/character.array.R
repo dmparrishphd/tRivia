@@ -1,5 +1,5 @@
 character.array <- function(string, sep=c(" ", "\n"), fixed=TRUE, ...) {
-    Dim <- rep(1L, 1L + length(seps))
+    Dim <- rep(1L, 1L + length(sep))
     Character <- string
     for ( k in seq_along(sep) ) {
         Character <- unlist( strsplit(Character, rev(sep)[k], fixed=fixed, ...) )
