@@ -1,0 +1,12 @@
+Package: zeroone
+Type: Package
+Title: Defines Special Values
+Version: 0.0-0
+Date: 2019-10-11
+Author: D.Michael Parrish
+Maintainer: Neat O <neatoverse@yahoo.com>
+Description: Special integer vectors
+License: GPL-2
+Encoding: UTF-8
+NeedsCompilation: no
+Packaged: 2019-10-12 00:00:59 UTC; dparrish
