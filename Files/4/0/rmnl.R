@@ -1,1 +1,1 @@
-rmnl <- function (x, ...) rmstr("\n", x)
+rmnl <- function (x, ...) gsub("\n", "", x, ...)
