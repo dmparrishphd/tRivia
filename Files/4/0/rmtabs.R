@@ -1,1 +1,1 @@
-rmtabs <- function (x, ...) gsub("\t", "", x)
+rmtabs <- function (x, ...) gsub("\t", "", x, ...)
