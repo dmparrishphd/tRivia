@@ -6,8 +6,18 @@ I mean a file or files that is/are intended to be loaded with `source`
 
 ## What's wrong with Packages?
 
-Gerald J. Sussman has said that he is willing to give up almost everything to maximize flexibility.
-The [tRivia]()
+Gerald J. Sussman (coauthor of
+[SICP](https://mitpress.mit.edu/sites/default/files/sicp/index.html))
+[1](https://www.youtube.com/watch?v=Rk76BurH384),
+[2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/),
+has said that he is willing to give up almost everything to maximize flexibility.
+The
+[tRivia](https://github.com/dmparrishphd/tRivia),
+[neatOveRse](https://github.com/dmparrishphd/neatOveRse), and
+[Shapiro](https://github.com/dmparrishphd/Shapiro)
+projects all have flexibility as a high priority.
+
+Packages have the following features that remove flexibility:
 
 1. They must be `install.packages`-ed in order to enable loading via `library`.
 
