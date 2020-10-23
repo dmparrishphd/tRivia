@@ -23,7 +23,7 @@ See definition of `b.match1All` for information on `table` and `x`.
 Example
 -------
 
-    # match1 IS DEFINED ELSEWHERE INTHE  alignment PROTOPACKAGE
+    # match1 IS DEFINED ELSEWHERE IN THE alignment PROTOPACKAGE
     match1All(1, c(2, 3, 3, 4, 4, 5), match1)
     # integer(0)
     match1All(3, c(2, 3, 3, 4, 4, 5), match1)
