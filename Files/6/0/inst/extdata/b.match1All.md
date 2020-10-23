@@ -1,6 +1,11 @@
 b.match1All
 ===========
 
+Usage
+-----
+
+    match1(x, table, incomparables=NULL)
+
 | Argument | Description |
 | -------: | :---------- |
 | `x` | passed to `FUN` as its first argument |
