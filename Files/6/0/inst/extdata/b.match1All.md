@@ -4,8 +4,8 @@ b.match1All
 | Argument | Description |
 | -------: | :---------- |
 | `x` | passed to `FUN` as its first argument |
-| table | each element is passed fo FUN, in turn |
-| FUN | a `function` of two arguments, returning a `logical`, non-`NA`--value indicating whether the two arguments match |
+| `table` | each element is passed to `FUN`, in turn |
+| `FUN` | a `function` of two arguments, returning a `logical`, non-`NA`--value indicating whether the two arguments match |
 
 Value
 -----
