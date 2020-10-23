@@ -1,9 +1,10 @@
 match1All
 =========
 
-match1All(...)
+Usage
+-----
 
-Usage: 
+    match1All(...)
 
 | Argument | Description |
 | -------: | :---------- |
