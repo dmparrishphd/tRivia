@@ -2,7 +2,7 @@ Package: alignment
 Type: Package
 Title: Tools for Finding Indices
 Version: 0.0-0
-Date: 2019-10-23
+Date: 2020-10-23
 Author: D.Michael Parrish
 Maintainer: Neat O <neatoverse@yahoo.com>
 Description: Includes multi-valued lookup; see also Title
