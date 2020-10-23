@@ -4,7 +4,7 @@ match1
 Usage
 -----
 
-b.match1All(x, table, FUN)
+    b.match1All(x, table, FUN)
 
 Details
 -------
