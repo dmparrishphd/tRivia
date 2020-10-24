@@ -2,7 +2,8 @@
 
 By *protopackage*,
 I mean a file or files that is/are intended to be loaded with `source`
-(as opposed to `library`) and does _not_ need to be installed (as in `install.packages`).
+(as opposed to `library`) and does _not_ need to be installed
+(in the `install.packages` sense).
 
 ## What's wrong with Packages?
 
