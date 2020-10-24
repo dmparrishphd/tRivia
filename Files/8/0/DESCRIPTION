@@ -1,0 +1,10 @@
+Package: zeroonetwo
+Type: Package
+Title: Compare with Zero and One
+Version: 0.0-0
+Date: 2020-10-24
+Author: D. Michael Parrish
+Maintainer: Neat O <neatoverse@yahoo.com>
+Description: Defines functions to compare objects with zero (0) and one (1)
+License: GPL-2
+Encoding: UTF-8
