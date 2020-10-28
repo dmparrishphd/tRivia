@@ -14,6 +14,9 @@ character.array (interpret near-WYSIWYG text from R source)
 [R](https://github.com/dmparrishphd/tRivia/blob/master/Files/4/0/character.array.R)
 [doc](https://github.com/dmparrishphd/tRivia/blob/master/Files/4/0/character.array.md)
 
+coordinates, device and plot
+[plotCoords](https://github.com/dmparrishphd/tRivia/tree/master/Files/1/1/0)
+
 ## N
 
 nests:
