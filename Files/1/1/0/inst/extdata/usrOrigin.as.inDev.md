@@ -1,6 +1,8 @@
 usrOrigin.as.inDev
 ==================
 
+_User origin in device coordinates_
+
 Usage
 -----
 
