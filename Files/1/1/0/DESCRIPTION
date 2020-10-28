@@ -1,0 +1,11 @@
+Package: plotCoords
+Type: Package
+Title: Device and Plot Coordinates
+Version: 0.0-0
+Date: 2020-10-27
+Author: D.Michael Parrish
+Maintainer: Neat O <neatoverse@yahoo.com>
+Description: Special integer vectors
+License: GPL-2
+Encoding: UTF-8
+NeedsCompilation: no
