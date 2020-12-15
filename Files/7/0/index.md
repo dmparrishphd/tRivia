@@ -20,7 +20,7 @@ coordinates, device and plot
 ## F
 
 factorToCharacter.df \[
-[R](../../5/0/factorToCharacter.df.R)
+[R](../../5/0/factorToCharacter.df.R),
 [doc](../../5/0/factorToCharacter.df.md)
 \]
 
