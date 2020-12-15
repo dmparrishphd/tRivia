@@ -17,6 +17,12 @@ character.array (interpret near-WYSIWYG text from R source)
 coordinates, device and plot
 [plotCoords](https://github.com/dmparrishphd/tRivia/tree/master/Files/1/1/0)
 
+## F
+
+[factorToCharacter.df]
+[R](../../5/0/factorToCharacter.df.R)
+[doc](../../5/0/factorToCharacter.df.md)
+
 ## N
 
 nests:
