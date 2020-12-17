@@ -10,9 +10,9 @@ List of Packages
 - s3d7a (0.0-0) A generic object.
 - zeroone (0.0-0) Special values: simple combinations of zero (`0L`) and one (`0L`).
 
-"1" [zeroone](../../1/0) Special integer vectors.
+"1" [zeroone](../../../1/0) Special integer vectors.
 
-"2" [anon](../../2/0) Naming and Anonymizing. Functions dealing with names, dimnames, etc.
+"2" [anon](../../../2/0) Naming and Anonymizing. Functions dealing with names, dimnames, etc.
 
 "3" \[[b](#Notes)\]
 
@@ -20,15 +20,15 @@ List of Packages
 
 "5" \[[b](#Notes)\]
 
-"6" [alignment](../../6/0) Tools for Finding Indices. Includes multi-valued lookup.
+"6" [alignment](../../../6/0) Tools for Finding Indices. Includes multi-valued lookup.
 
 "7" \[[b](#Notes)\]
 
-"8" \[[a](#Notes)\] [zeroonetwo](../../8/0) Compare with Zero and One. Defines functions to compare objects with zero (`0`) and one (`1`).
+"8" \[[a](#Notes)\] [zeroonetwo](../../../8/0) Compare with Zero and One. Defines functions to compare objects with zero (`0`) and one (`1`).
 
-"11" [plotCoords](../../1/0) Device and Plot Coordinates.
+"11" [plotCoords](../../../1/0) Device and Plot Coordinates.
 
-"12" [heaviside](../../1/2) Variations on the Heaviside Step Function.
+"12" [heaviside](../../../1/2) Variations on the Heaviside Step Function.
 
 "13" \[[b](#Notes)\]
 
