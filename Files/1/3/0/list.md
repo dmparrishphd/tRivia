@@ -12,7 +12,7 @@ List of Packages
 
 "1" [zeroone](../../1/0) Special integer vectors.
 
-"2" [zeroonetwo](../../2/0) Defines functions to compare objects with zero (0) and one (1).
+"2" [anon](../../2/0) Naming and Anonymizing. Functions dealing with names, dimnames, etc.
 
 "3" \[[b](#Notes)\]
 
