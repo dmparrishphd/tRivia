@@ -26,9 +26,9 @@ List of Packages
 
 "8" \[[a](#Notes)\] [zeroonetwo](../../../8/0) Compare with Zero and One. Defines functions to compare objects with zero (`0`) and one (`1`).
 
-"11" [plotCoords](../../../1/0) Device and Plot Coordinates.
+"11" [plotCoords](../../../1/1/0) Device and Plot Coordinates.
 
-"12" [heaviside](../../../1/2) Variations on the Heaviside Step Function.
+"12" [heaviside](../../../1/2/0) Variations on the Heaviside Step Function.
 
 "13" \[[b](#Notes)\]
 
