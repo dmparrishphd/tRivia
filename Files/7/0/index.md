@@ -1,8 +1,8 @@
 ## A
 
-[alignment](https://github.com/dmparrishphd/tRivia/tree/master/Files/6/0)
+[alignment](../../6/0)
 
-[anon](https://github.com/dmparrishphd/tRivia/tree/master/Files/2/0)
+[anon](../../2/0)
 
 apace (a package extractor)
 [R](https://github.com/dmparrishphd/tRivia/blob/master/Files/3/0/apace.R)
@@ -49,7 +49,7 @@ rm new-line, [rmnl](https://github.com/dmparrishphd/tRivia/blob/master/Files/4/0
 
 rm substrings, [rmstr](https://github.com/dmparrishphd/tRivia/blob/master/Files/4/0/rmstr.R)
 
-[rmtabs(]https://github.com/dmparrishphd/tRivia/blob/master/Files/4/0/rmtabs.R)
+[rmtabs](https://github.com/dmparrishphd/tRivia/blob/master/Files/4/0/rmtabs.R)
 
 remove zeroes, [rmz](https://github.com/dmparrishphd/tRivia/blob/master/Files/4/0/rmz.R)
 
