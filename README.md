@@ -11,5 +11,5 @@ is designed to have no dependencies except `base`.
 Find components by browsing the
 [Files](./Files)
 or searching the
-[Directory](./Files/1/3/0/list.md).
+[Directory](./Files/1/3/0/directory.md).
 
