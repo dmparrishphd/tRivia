@@ -3,12 +3,12 @@ List of Packages
 
 "" \[[a](#Notes)\]
 
-- anon (0.0-0)
+- anon (0.0-0) Remove names (anonymize) from objects.
 - apace (0.0-0, 1.0-0)
-- rawrw (0.0-0)
-- rmALLTHE (0.0-0, 0.1-0)
-- s3d7a (0.0-0)
-- zeroone (0.0-0)
+- rawrw (0.0-0) Read and write `raw` vectors.
+- rmALLTHE (0.0-0, 0.1-0) Remove various kinds of elements.
+- s3d7a (0.0-0) A generic object.
+- zeroone (0.0-0) Special values: simple combinations of zero (`0L`) and one (`0L`).
 
 "1" [zeroone](../../1/0) Special integer vectors.
 
@@ -23,6 +23,8 @@ List of Packages
 "6" [alignment](../../6/0) Tools for Finding Indices. Includes multi-valued lookup.
 
 "7" \[[b](#Notes)\]
+
+"8" \[[a](#Notes)\] [zeroonetwo](../../8/0) Compare with Zero and One. Defines functions to compare objects with zero (`0`) and one (`1`).
 
 "11" [plotCoords](../../1/0) Device and Plot Coordinates.
 
