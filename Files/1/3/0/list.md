@@ -1,7 +1,7 @@
 List of Packages
 ================
 
-(0) 
+"" 
 
 - anon (0.0-0)
 - apace (0.0-0, 1.0-0)
@@ -10,7 +10,7 @@ List of Packages
 - s3d7a (0.0-0)
 - zeroone (0.0-0)
 
-(1) [zeroone](../../1/0) Special integer vectors.
+"1" [zeroone](../../1/0) Special integer vectors.
 
 (2) [zeroonetwo](../../2/0) Defines functions to compare objects with zero (0) and one (1).
 
