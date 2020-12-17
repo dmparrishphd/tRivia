@@ -17,6 +17,8 @@ character.array (interpret near-WYSIWYG text from R source)
 coordinates, device and plot
 [plotCoords](https://github.com/dmparrishphd/tRivia/tree/master/Files/1/1/0)
 
+[csource](../../1/3/0/csource.R) (`source` R code from `character` vectors)
+
 ## F
 
 factorToCharacter.df \[
@@ -58,6 +60,8 @@ remove zeroes, [rmz](https://github.com/dmparrishphd/tRivia/blob/master/Files/4/
 s3d7a, a generic S4 class:
 [s3d7a.br](https://github.com/dmparrishphd/tRivia/blob/master/Files/3/0/s3d7a.br.R)
 [s3d7a](https://github.com/dmparrishphd/tRivia/blob/master/Files/3/0/s3d7a.R)
+
+source. _See_ csource.
 
 ## W
 
