@@ -35,13 +35,13 @@ the positions of the beginnings of the appended lines.
 Examples
 --------
 
-write("this is a test", file="trash")
-ffindlf("trash")
-# [1] 16
-write("this is another test", file="trash", append=TRUE)
-ffindlf("trash")
-# [1] 16 38
-ffindlf("trash", 16)
-# [1] 38
-close(f)
-
+    write("this is a test", file="trash")
+    ffindlf("trash")
+    # [1] 16
+    write("this is another test", file="trash", append=TRUE)
+    ffindlf("trash")
+    # [1] 16 38
+    ffindlf("trash", 16)
+    # [1] 38
+    close(f)
+    
