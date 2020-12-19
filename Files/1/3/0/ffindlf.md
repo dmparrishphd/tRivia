@@ -32,9 +32,10 @@ the file is subsequently appended,
 a call to `ffindlf` with that `where` argument should return
 the positions of the beginnings of the appended lines.
 
-Examples
---------
+Example
+-------
 
+    # **** WARNING **** THIS EXAMPLE WILL OVERWRITE A FILE CALLED "trash" AT THE DIRECTORY `getwd()`
     write("this is a test", file="trash")
     ffindlf("trash")
     # [1] 16
