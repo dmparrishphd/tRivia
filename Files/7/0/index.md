@@ -26,6 +26,17 @@ factorToCharacter.df \[
 [doc](../../5/0/factorToCharacter.df.md)
 \]
 
+## line (text)
+
+[readLinesAt]
+[\[R\]](../../1/3/0/readLinesAt.R)
+[\[doc\]](../../1/3/0/readLinesAt.md)
+Read arbitrary lines from an open connection.
+
+[ffindlf]
+[\[R\]](../../1/3/0/ffindlf.R)
+[\[doc\]](../../1/3/0/ffindlf.md)
+
 ## N
 
 nests:
