@@ -38,6 +38,10 @@ ffindlf
 [\[doc\]](../../1/3/0/ffindlf.md)
 Find file positions of line feed characters (ASCII 10).
 
+<a name="mgrepl"></a>mgrepl \[[R](../../1/4/0/mgrepl.R)\]
+\[[doc](../../1/4/0/mgrepl.md)\]
+Higher order `grepl` (multiple patterns, multiple strings)
+
 ## N
 
 nests:
@@ -72,6 +76,11 @@ remove zeroes, [rmz](https://github.com/dmparrishphd/tRivia/blob/master/Files/4/
 s3d7a, a generic S4 class:
 [s3d7a.br](https://github.com/dmparrishphd/tRivia/blob/master/Files/3/0/s3d7a.br.R)
 [s3d7a](https://github.com/dmparrishphd/tRivia/blob/master/Files/3/0/s3d7a.R)
+
+search. _See_ [mgrepl](#mgrepl)
+
+
+
 
 source. _See_ [csource](#csource).
 
