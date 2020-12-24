@@ -16,6 +16,10 @@ The first few terminal file paths are
 
 0 1/0 2/0 3/0 4/0 5/0 6/0 7/0 1/1/0 1/2/0 1/3/0 1/4/0 1/5/0 1/6/0 1/7/0 2/1/0 2/2/0 2/3/0
 
+Which we might abbreviate
+
+"" "1" "2" "3" "4" "5" "6" "7" "11" "12" "13" "14" "15" "16" "17" "21" "22" "23"
+
 By terminal we mean that the pattern of bijective numeration does not continue into subdirectories of those paths.
 
 Exceptions
