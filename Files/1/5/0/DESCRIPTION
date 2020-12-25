@@ -1,0 +1,10 @@
+Package: vapply2x
+Type: Package
+Title: Variations on vapply
+Version: 0.0-0
+Date: 2020-12-25
+Author: D. Michael Parrish
+Maintainer: Neat O <neatoverse@yahoo.com>
+Description: Defines three, two-argument variaitons of vapply.
+License: GPL-2
+Encoding: UTF-8
