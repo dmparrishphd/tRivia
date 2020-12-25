@@ -32,6 +32,10 @@ List of Packages
 
 "13" \[[b](#Notes)\]
 
+"14" \[[b](#Notes)\]
+
+"15" [vapply2x](../../../1/5/0) Variations on vapply. Defines three, two-argument variaitons of vapply.
+
 Notes
 -----
 
