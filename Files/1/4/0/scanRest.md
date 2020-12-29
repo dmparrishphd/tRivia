@@ -10,6 +10,11 @@ Usage
 
     scanRest(file, quiet=T)
 
+| Argument | Description      |
+| -------: | :--------------- |
+|   `file` | passed to `scan` |
+|  `quiet` | passed to `scan` |
+
 Value
 -----
 
