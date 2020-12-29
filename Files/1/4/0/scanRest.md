@@ -26,7 +26,7 @@ If `file` is a valid file path (`character` string), the file position is the be
 Example
 -------
 
-    # THIS EXAMPLE **** OVERWRITES **** A FILE CALLED trash IN THE CURRENT DIRECTORY.
+    # THIS EXAMPLE **** OVERWRITES **** A FILE CALLED trash IN THE WORKING DIRECTORY.
     cat("AS YOU WISH\n", file="trash")
     scanRest("trash")
     # [1] "AS YOU WISH"
