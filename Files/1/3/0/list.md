@@ -40,7 +40,7 @@ Variations on the Heaviside Step Function.
 
 "16" [heavisideAd](../../../1/6/0)
 Additional Variations on the Heaviside Step Function.
-See also \[[heaviside](#heaviside)\]
+See also \[[heaviside](#heaviside)\].
 
 
 Notes
