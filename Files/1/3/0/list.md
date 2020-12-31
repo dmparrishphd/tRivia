@@ -28,10 +28,9 @@ List of Packages
 
 "11" [plotCoords](../../../1/1/0) Device and Plot Coordinates.
 
-<div id="heaviside">
+<a id="heaviside"></a>
 "12" [heaviside](../../../1/2/0)
 Variations on the Heaviside Step Function.
-</div>
 
 "13" \[[b](#Notes)\]
 
@@ -47,7 +46,7 @@ See also \[[heaviside](#heaviside)\]
 Notes
 -----
 
-<a name="Notes"></a>
+<a id="Notes"></a>
   
 \[a\] [file tree numbering system explained](./numbers.md)
 
