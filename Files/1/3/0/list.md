@@ -28,13 +28,21 @@ List of Packages
 
 "11" [plotCoords](../../../1/1/0) Device and Plot Coordinates.
 
-"12" [heaviside](../../../1/2/0) Variations on the Heaviside Step Function.
+<div id=heaviside>
+"12" [heaviside](../../../1/2/0)
+Variations on the Heaviside Step Function.
+</div>
 
 "13" \[[b](#Notes)\]
 
 "14" \[[b](#Notes)\]
 
 "15" [vapply2x](../../../1/5/0) Variations on vapply. Defines three, two-argument variaitons of vapply.
+
+"16" [heavisideAd](../../../1/6/0)
+Additional Variations on the Heaviside Step Function.
+See also \[[heaviside](#heaviside)\]
+
 
 Notes
 -----
