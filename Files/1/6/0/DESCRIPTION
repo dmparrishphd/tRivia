@@ -1,0 +1,10 @@
+Package: heavisideAd
+Type: Package
+Title: Additional Variations on the Heaviside Step Function
+Version: 0.0-0
+Date: 2020-12-31
+Author: D. Michael Parrish
+Maintainer: Neat O <neatoverse@yahoo.com>
+Description: Defines more functions consistent with the Heaviside Step Function
+License: GPL-2
+Encoding: UTF-8
