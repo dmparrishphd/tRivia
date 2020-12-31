@@ -26,7 +26,7 @@ List of Packages
 
 "8" \[[a](#Notes)\] [zeroonetwo](../../../8/0) Compare with Zero and One. Defines functions to compare objects with zero (`0`) and one (`1`).
 
-[(Why skip from "8" to "11"?)] \[[a](#Notes)\] ([link](../../../0))
+_Why skip from "8" to "11"?_ See \[[a](#Notes)\] ([link](../../../0)).
 
 "11" [plotCoords](../../../1/1/0) Device and Plot Coordinates.
 
