@@ -40,13 +40,13 @@ Split a contiguous sequence into subsequence.
 ## line (text)
 
 readLinesAt
-[\[R\]](../../1/3/0/readLinesAt.R)
-[\[doc\]](../../1/3/0/readLinesAt.md)
+\[[R](../../1/3/0/readLinesAt.R)\]
+\[[doc\]](../../1/3/0/readLinesAt.md)\]
 Read arbitrary lines from an open connection.
 
 ffindlf
-[\[R\]](../../1/3/0/ffindlf.R)
-[\[doc\]](../../1/3/0/ffindlf.md)
+\[[R](../../1/3/0/ffindlf.R)\]
+\[[doc](../../1/3/0/ffindlf.md)\]
 Find file positions of line feed characters (ASCII 10).
 
 <a id="mgrepl"></a>mgrepl \[[R](../../1/4/0/mgrepl.R)\]
