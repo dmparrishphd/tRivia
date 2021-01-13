@@ -19,12 +19,23 @@ coordinates, device and plot
 
 <a name="csource"></a>[csource](../../1/3/0/csource.R) (`source` R code from `character` vectors)
 
+## D
+
+divide. _See_ [idivisions](#idivisions)
+
 ## F
 
 factorToCharacter.df \[
 [R](../../5/0/factorToCharacter.df.R),
 [doc](../../5/0/factorToCharacter.df.md)
 \]
+
+## I
+
+<a id="idivisions"></a>idivisions
+\[[R](../../1/7/0/idivisions.R)\]
+\[[doc](../../1/7/0/idivisions.md)\]
+Split a contiguous sequence into subsequence.
 
 ## line (text)
 
@@ -38,7 +49,7 @@ ffindlf
 [\[doc\]](../../1/3/0/ffindlf.md)
 Find file positions of line feed characters (ASCII 10).
 
-<a name="mgrepl"></a>mgrepl \[[R](../../1/4/0/mgrepl.R)\]
+<a id="mgrepl"></a>mgrepl \[[R](../../1/4/0/mgrepl.R)\]
 \[[doc](../../1/4/0/mgrepl.md)\]
 Higher order `grepl` (multiple patterns, multiple strings)
 
@@ -79,8 +90,7 @@ s3d7a, a generic S4 class:
 
 search. _See_ [mgrepl](#mgrepl).
 
-
-
+sequences. _See_ [idivisions](#idivisions)
 
 source. _See_ [csource](#csource).
 
