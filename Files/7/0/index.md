@@ -41,7 +41,7 @@ Split a contiguous sequence into subsequence.
 
 readLinesAt
 \[[R](../../1/3/0/readLinesAt.R)\]
-\[[doc\]](../../1/3/0/readLinesAt.md)\]
+\[[doc](../../1/3/0/readLinesAt.md)\]
 Read arbitrary lines from an open connection.
 
 ffindlf
