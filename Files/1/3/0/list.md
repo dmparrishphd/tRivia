@@ -45,6 +45,7 @@ Variations on the Heaviside Step Function.
 Additional Variations on the Heaviside Step Function.
 See also \[[heaviside](#heaviside)\].
 
+"17" \[[b](#Notes)\]
 
 Notes
 -----
