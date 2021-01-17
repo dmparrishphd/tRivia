@@ -48,5 +48,7 @@ Examples
     ## IN THE CURRENT WORKING DIRECTORY.
     cat("a\nab\naba\nabab\n", file="trash")
     scanLinesVerbatim("trash")
-    [1] "a"    "ab"   "aba"  "abab"
-     
+    # [1] "a"    "ab"   "aba"  "abab"
+    scanLinesVerbatim(text="trash\ntrash")
+    # [1] "trash" "trash"
+    
