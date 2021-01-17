@@ -19,6 +19,10 @@ character.array (interpret near-WYSIWYG text from R source)
 [R](../../4/0/character.array.R)
 [doc](../../4/0/character.array.md)
 
+characters, random
+[R](../../3/1/0/rcharacter.R)
+[doc](../../3/1/0/rcharacter.md)
+
 coordinates, device and plot
 [plotCoords](../../1/1/0)
 
@@ -81,6 +85,11 @@ Replace `NA`-values with zero-values.
 
 [readRaw](../../5/0/readRaw.R)
 (see also writeRaw)
+
+rcharacter
+[R](../../3/1/0/rcharacter.R)
+[doc](../../3/1/0/rcharacter.md)
+Random character vectors.
 
 ## rm
 
