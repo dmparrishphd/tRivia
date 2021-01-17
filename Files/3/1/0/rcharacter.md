@@ -1,6 +1,8 @@
 rcharacter
 ==========
 
+Random `character` vectors.
+
 Usage
 -----
 
