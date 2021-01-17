@@ -41,3 +41,12 @@ The intent is to read in a text file in a manner that resembles the file as clos
 
 `text` is passed to `scan` only if `file` is unspecified and `text` is a `character` vector of length 1.
 
+Examples
+--------
+
+    ## THIS EXAMPLE WILL **** OVERWRITE **** A FILE  CALLED trash
+    ## IN THE CURRENT WORKING DIRECTORY.
+    cat("a\nab\naba\nabab\n", file="trash")
+    scanLinesVerbatim("trash")
+    [1] "a"    "ab"   "aba"  "abab"
+     
