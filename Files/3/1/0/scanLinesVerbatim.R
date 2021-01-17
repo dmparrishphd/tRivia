@@ -4,7 +4,7 @@
 scanLinesVerbatim <- function(file="", n=-1, skip=0, quiet=TRUE,
         fileEncoding="", encoding="unknown", text=character(),
         skipNul=TRUE) {
-    AdditionalArgs <- list(file=file, n=n, skip=skip,
+    AdditionalArgs <- list(file=file, n=n, skip=skip, quiet=quiet,
         fileEncoding=fileEncoding, encoding=encoding,
         skipNul=skipNul)
     Option <- if (missing(file) && is.character(text) && length(text) == 1)
