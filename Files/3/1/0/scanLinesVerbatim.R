@@ -1,7 +1,6 @@
 .scanLinesVerbatim.Args.fixed <- list(what="", sep="\n",
         na.strings=character(), blank.lines.skip=F)
 
-
 scanLinesVerbatim <- function(file="", n=-1, skip=0, quiet=TRUE,
         fileEncoding="", encoding="unknown", text=character(),
         skipNul=TRUE) {
