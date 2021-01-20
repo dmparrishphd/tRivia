@@ -31,7 +31,7 @@ R won't load the updated version.
 This drastically impacts speed of development.
 
 4. It's hard to add to a library.
-If we want to make correct a typo in the documentation,
+If we want to correct a typo in the documentation,
 we have to issue an entire new version.
 
 5. It's hard to subtract from a library.
