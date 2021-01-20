@@ -101,6 +101,12 @@ rm `NA`, [rmna](../../4/0/rmna.R)
 
 rm new-line, [rmnl](../../4/0/rmnl.R)
 
+<a id="rmnullstr"></a>
+rmnullstr
+\[[R](../../3/1/0/rmnullstr.R)\]
+\[[doc](../../3/1/0/rmnullstr.md)\]
+Remove null strings from a character vector.
+
 rm substrings, [rmstr](../../4/0/rmstr.R)
 
 [rmtabs](../../4/0/rmtabs.R)
@@ -118,6 +124,9 @@ search. _See_ [mgrepl](#mgrepl).
 sequences. _See_ [idivisions](#idivisions)
 
 source. _See_ [csource](#csource).
+
+string. _See_
+<a href="#rmnullstr">rmnullstr</a>
 
 ## W
 
