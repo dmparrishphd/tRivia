@@ -6,6 +6,7 @@ Find an element in a container.
 Usage
 -----
 
+    .lsearch(x, table, compar=`==`, extract=`[[`)
     lsearch(...)
 
 |  Argument | Desscription                                                              |
@@ -14,6 +15,7 @@ Usage
 |   `table` | A container to search                                                     |
 |  `compar` | A function that compares `x` with any element of `table`                  |
 | `extract` | A function that extracts an element from `table` for comparrison with `x` |
+|     `...` | passed to `.lsearch`                                                      |
 
 Details
 -------
@@ -29,5 +31,6 @@ consistent with `[[`.
 Value
 -----
 
-An `integer` index of `table` indicating the first element in `table` that compares with `x`.
-If no match is found, `0L`.
+If no match is found, `lsearch` returns `0L`, while `.lsearch` returns `NULL`.
+
+If a match is found an `integer` index of `table` indicating the first element in `table` that matches `x`.
