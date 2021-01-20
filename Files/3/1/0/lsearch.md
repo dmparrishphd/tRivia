@@ -20,7 +20,7 @@ Usage
 Details
 -------
 
-The `compar` function should return `TRUE` when `x` matches an element of `table`.
+The `compar` function should return `TRUE` when `x` matches an element of `table`, `FALSE` otherwise.
 The `compar` function is called with `x` as the first argument and the table element as the second argument.
 The `compar` function need not be commutative.
 
