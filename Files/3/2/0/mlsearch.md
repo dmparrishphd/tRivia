@@ -6,7 +6,7 @@ Find multiple objects in a container.
 Usage
 -----
 
-    mlsearch(x, table, compar = `==`, extract = `[[`, n = length(table), USE.NAMES = F)
+    mlsearch(x, table, compar = `==`, extract = `[[`, n = length(table))
     
 |    Argument | Description                                           |
 | ----------: | :---------------------------------------------------- |
@@ -15,7 +15,6 @@ Usage
 |    `compar` | a function that compares `x` with elements of `table` |
 |   `extract` | a function used to extract elements from `table`      |
 |         `n` | specifies the last element of `table` to be searched  |
-| `USE.NAMES` | passed to `vapply`                                    |
 
 Value
 -----
