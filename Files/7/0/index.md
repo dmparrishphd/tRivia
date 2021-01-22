@@ -66,8 +66,8 @@ Find file positions of line feed characters (ASCII 10).
 Higher order `grepl` (multiple patterns, multiple strings)
 
 <a id="mlsearch"></a>mlsearch
-[R](../../3/2/0/mlsearch.R)
-[doc](../../3/2/0/mlsearch.md)
+\[[R](../../3/2/0/mlsearch.R)\]
+\[[doc](../../3/2/0/mlsearch.md)\]
 Find multiple objects in a container.
 
 ## N
