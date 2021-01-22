@@ -58,9 +58,17 @@ ffindlf
 \[[doc](../../1/3/0/ffindlf.md)\]
 Find file positions of line feed characters (ASCII 10).
 
-<a id="mgrepl"></a>mgrepl \[[R](../../1/4/0/mgrepl.R)\]
+## M
+
+<a id="mgrepl"></a>mgrepl
+\[[R](../../1/4/0/mgrepl.R)\]
 \[[doc](../../1/4/0/mgrepl.md)\]
 Higher order `grepl` (multiple patterns, multiple strings)
+
+<a id="mlsearch"></a>mlsearch
+[R](../../3/2/0/mlsearch.R)
+[doc](../../3/2/0/mlsearch.md)
+Find multiple objects in a container.
 
 ## N
 
@@ -119,7 +127,7 @@ s3d7a, a generic S4 class:
 [s3d7a.br](../../3/0/s3d7a.br.R)
 [s3d7a](../../3/0/s3d7a.R)
 
-search. _See_ [mgrepl](#mgrepl).
+search. _See_ [mgrepl](#mgrepl), [mlsearch](#mlsearch).
 
 sequences. _See_ [idivisions](#idivisions)
 
