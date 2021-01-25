@@ -1,8 +1,10 @@
 # tRivia
-_tRivia_ is a family of R packages,
-[*protopackages*](./Files/3/0/protopackages.md),
-and
-providing trivial components which may be combined in non-trivial ways. Most components are functions.
+_tRivia_ is a family of R packages and
+[*protopackages*](./Files/3/0/protopackages.md)
+that
+provide trivial components.
+The components may be combined in non-trivial ways.
+Most components are functions.
 
 Each component
 [package or protopackage](./Files/7/0/index.md)
