@@ -1,7 +1,7 @@
 Directory
 =========
 
-[File Tree](../../../Files)
+[File Tree](../../..)
 
 [Index](../../../7/0/index.md)
 
