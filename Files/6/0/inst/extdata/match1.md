@@ -4,7 +4,7 @@ match1
 Usage
 -----
 
-    b.match1All(x, table, FUN)
+    match1(x, table, incomparables=NULL)
 
 Details
 -------
