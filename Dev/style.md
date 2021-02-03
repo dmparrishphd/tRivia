@@ -14,12 +14,9 @@ Do your own parsing: speak volumes by saying nonthing.
 
     anUnladenSwallow <- 42
     airSpeedVelocity <- 43
-    airSpeedVelocity<-anUnladenSwallow
-    # WHAT DO YOU MEAN?
-    # AN ASSIGNMENT?
-    airSpeedVelocity <- anUnladenSwallow
-    # OR A COMPARRISON?
-    airSpeedVelocity < -anUnladenSwallow
+    airSpeedVelocity<-anUnladenSwallow # WHAT DO YOU MEAN?
+    airSpeedVelocity <- anUnladenSwallow # AN ASSIGNMENT?
+    airSpeedVelocity < -anUnladenSwallow # OR A COMPARRISON?
 
 Definitions
 -----------
