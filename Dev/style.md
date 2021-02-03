@@ -56,7 +56,32 @@ Continue other long lines with _two additional_ indents.
             parameter4 ) {
         #TODO: FINISH EXAMPLE.
         }
+        
+### Lists
 
+_not necessarily_ `lists`_'s_
+
+Continue a multi-line list at _one additional_ indent, but do not  _further_ additional lines.
+
+    # PREFERRED #1
+    c ( A = 1 ,
+        B = 2 ,
+        C = 3 )
+    # PREFERRED #2
+     data.frame (
+        A = 1 ,
+        B = 2 ,
+        C = 3 )
+
+    # NOT PREFERRED #1
+    c ( A = 1 ,
+        B = 2 ,
+            C = 3 )
+    # NOT PREFERRED #2
+     data.frame (
+        A = 1 ,
+            B = 2 ,
+                C = 3 )
 
 Definitions
 -----------
