@@ -47,6 +47,16 @@ See also \[[heaviside](#heaviside)\].
 
 "17" \[[b](#Notes)\]
 
+_Why skip from "17" to "21"?_
+See \[[a](#Notes)\]
+
+"21"--"27" (unused as of 2021-02-03)
+
+"31"--"33"  \[[b](#Notes)\]
+
+"34" [csvcsv](../../../3/4/0) Handle stacks of flat tables.
+_See also_ [csvcsv links](../../../3/3/0/csvcsv.md)
+
 Notes
 -----
 
