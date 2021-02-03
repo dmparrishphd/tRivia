@@ -11,3 +11,10 @@ Most Recent
 -----------
 
 [csvcsv 34](../../4/0)
+
+History
+-------
+
+The first csvcsv protopackage was developed in support of a
+system to compare observation data with simulation results
+represented in two, unaligned flat tables.
