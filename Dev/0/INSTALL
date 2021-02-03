@@ -1,0 +1,5 @@
+This collection of files is a proto package. It is designed for
+use via `source` rather than `install.packages` and `library`.
+
+    source("path/.attach.R")[[1]]("path/")
+    
