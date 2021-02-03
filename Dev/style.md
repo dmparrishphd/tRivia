@@ -21,6 +21,14 @@ Do your own parsing: speak volumes by saying nonthing.
 The Source File
 ===============
 
+### Layout---Number of Columns
+
+Use no more than 80 character-columns; the end-of-line marker counts as one character.
+
+Use no more than 64 character-columns of printing characters, in most cases.
+
+### Layout---Special Columns
+
 _Reserve_ the first character-column of text for the first character of identifiers:
 
     # PREFERRED
@@ -33,6 +41,8 @@ _Reserve_ the first character-column of text for the first character of identifi
     }
     
 Such a source file can be searched very quickly for the identifers defined therein.
+
+
 
 Definitions
 -----------
