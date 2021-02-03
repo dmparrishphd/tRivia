@@ -10,12 +10,16 @@ A Style Guide for R Source Code
 Parsing
 -------
 
-Do your own parsing: comminicate intent with nothing (whitespace).
+Do your own parsing: speak volumes by saying nonthing.
 
-    n<--42
-    n <--42
-    n < - -42
-    n <- -42
+    anUnladenSwallow <- 42
+    airSpeedVelocity <- 43
+    airSpeedVelocity<-anUnladenSwallow
+    # WHAT DO YOU MEAN?
+    # AN ASSIGNMENT?
+    airSpeedVelocity <- anUnladenSwallow
+    # OR A COMPARRISON?
+    airSpeedVelocity < -anUnladenSwallow
 
 Definitions
 -----------
