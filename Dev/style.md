@@ -21,12 +21,6 @@ Do your own parsing: speak volumes by saying nonthing.
 The Source File
 ===============
 
-### Layout---Number of Columns
-
-Use no more than 80 character-columns; the end-of-line marker counts as one character.
-
-Use no more than 64 character-columns of printing characters, in most cases.
-
 ### Layout---Special Columns
 
 _Reserve_ the first character-column of text for the first character of identifiers:
@@ -42,6 +36,26 @@ _Reserve_ the first character-column of text for the first character of identifi
     
 Such a source file can be searched very quickly for the identifers defined therein.
 
+### Layout---Number of Columns
+
+Use no more than 80 character-columns; the end-of-line marker counts as one character.
+
+Use no more than 64 character-columns of printing characters, in most cases.
+
+### Layout---Long Lines
+
+Continue a function parameter list with _two additional_ indents.
+
+Continue other lists of items within grouping symbols with _one additional_ indent.
+
+Continue other long lines with _two additional_ indents.
+
+    #        1         2         3         4         5         6
+    #234567890123456789012345678901234567890123456789012345678901234
+    foo <- function ( parameter , parameter2 , parameter3 ,
+            parameter4 ) {
+        #TODO: FINISH EXAMPLE.
+        }
 
 
 Definitions
