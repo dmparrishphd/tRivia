@@ -1,7 +1,7 @@
 A Style Guide for R Source Code
 ===============================
 
-*DRAFT*
+**DRAFT**
 
 ----
 
@@ -18,6 +18,22 @@ Do your own parsing: speak volumes by saying nonthing.
     airSpeedVelocity <- anUnladenSwallow # AN ASSIGNMENT?
     airSpeedVelocity < -anUnladenSwallow # OR A COMPARRISON?
 
+The Source File
+===============
+
+_Reserve_ the first character-column of text for the first character of identifiers:
+
+    # PREFERRED
+    foo <- function ( ) {
+        "bar" }
+    
+    # NOT PREFERRED
+    foo <- function ( ) {
+        "bar"
+    }
+    
+Such a source file can be searched very quickly for the identifers defined therein.
+
 Definitions
 -----------
 
@@ -29,4 +45,4 @@ Most of the code should be definitions.
 
 ----
 
-*DRAFT*
+**DRAFT**
