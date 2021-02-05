@@ -1,0 +1,12 @@
+Package: val
+Type: Package
+Title: Validate numerical models
+Version: 0.0-0
+Date: 2020-02-03
+Author: D. Michael Parrish
+Maintainer: Neat O <neatoverse@yahoo.com>
+Description: Defines several functions for performing summary
+    statistics over pairs of observations and model results
+    and over groups of such pairs.
+License: GPL-2
+Encoding: UTF-8

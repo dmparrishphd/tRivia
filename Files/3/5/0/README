@@ -1,0 +1,38 @@
+Metadata for Directory
+
+Description
+
+        The csvcsv R package.
+
+        See also ./DESCRIPTION
+
+Subdirectories
+
+        ./
+
+                DESCRIPTION file compatible with R packages
+
+                INSTALL file describes how to make the package
+                content availabe for use in R.
+
+                NAMESPACE file compatible with R packages
+
+                README is the present file.
+
+        inst/extdata/
+
+                Documentation ( in progress )
+
+        data/
+
+                Sample Data Sets ( forthcoming )
+
+        R/
+
+                R Source Code
+
+        tests/
+
+                Code Snippets used in the development of the
+                package. Might be empty (tests often represent
+                earlier stages of development).
