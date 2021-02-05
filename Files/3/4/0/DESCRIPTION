@@ -1,0 +1,14 @@
+Package: csvcsv
+Type: Package
+Title: Various functions for handling flat tables
+Version: 0.0-0
+Date: 2020-02-02
+Author: D. Michael Parrish
+Maintainer: Neat O <neatoverse@yahoo.com>
+Description: Defines several functions for reading, selecting,
+    and organizing data from flat tables, expecially as read
+    from CSV files. Many helper functions, useful in their own
+    right, facilitate alignment among several flat tables which
+    may form a three-dimensional structure.
+License: GPL-2
+Encoding: UTF-8
