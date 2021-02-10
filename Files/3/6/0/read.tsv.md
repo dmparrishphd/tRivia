@@ -61,15 +61,11 @@ Reference
 ---------
 
 <a id="TSV">\[TSV\]</a>
-Internet Assigned Numbers Authority, IANA
-(Downloaded 2021-02-10)
+Internet Assigned Numbers Authority, IANA (Downloaded 2021-02-10)
 Definition of tab-separated-values (tsv).
 [https://www.iana.org/assignments/media-types/text/tab-separated-values](https://www.iana.org/assignments/media-types/text/tab-separated-values)
 
 See Also
 --------
-Wikimedia Foundation, Inc.
-(Downloaded 2021-02-10)
-Tab-separated values.
-[https://en.wikipedia.org/wiki/Tab-separated\_values]
-(https://en.wikipedia.org/wiki/Tab-separated_values)
+Wikimedia Foundation, Inc. (Downloaded 2021-02-10) Tab-separated values.
+[https://en.wikipedia.org/wiki/Tab-separated\_values](https://en.wikipedia.org/wiki/Tab-separated_values)
