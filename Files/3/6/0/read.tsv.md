@@ -26,7 +26,7 @@ Usage
 |             `file` | optionally passed to `read.table` (see Details) |
 |            `nrows` | passed to `read.table` |
 |             `skip` | passed to `read.table` |
-|           `strict` | non-`NA` `logical` value; if `TRUE`, strictly apply the <a href="#TSV">TSV standard</a> |
+|           `strict` | non-`NA` `logical` value; if `TRUE`, strictly apply the <a href="#TSV">\[TSV\] standard</a> |
 | `blank.lines.skip` | passed to `read.table` _if not srict_ |
 |     `comment.char` | passed to `read.table` _if not srict_ |
 | `stringsAsFactors` | passed to `read.table` |
