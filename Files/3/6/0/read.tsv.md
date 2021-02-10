@@ -1,5 +1,3 @@
-        # "Embedded nuls are unsupported: skipping them (with
-        #       skipNul = TRUE) may work" (help(read.table)).
 read.tsv
 ========
 
@@ -34,8 +32,8 @@ Usage
 | `stringsAsFactors` | passed to `read.table` |
 |     `fileEncoding` | passed to `read.table` |
 |         `encoding` | passed to `read.table` |
-|             `text` | passed to `read.table` |
-|          `skipNul` | optionally passed to `read.table` (see Details) |
+|             `text` | optionally passed to `read.table` (see Details) |
+|          `skipNul` | passed to `read.table` |
 
 Value
 -----
@@ -54,6 +52,10 @@ Details
 
 The behavior with regard to the `file` and `text` arguments is
 the same as for `read.table`.
+
+`read.tsv` is not designed to handle embedded nulls per se;
+by default they are skipped per the suggestion in `help(read.table)`:
+"Embedded nuls are unsupported: skipping them (with `skipNul = TRUE`) may work."
  
 Reference
 ---------
