@@ -3,6 +3,11 @@ scanLinesVerbatim
 
 Scan lines of text
 
+Update:
+["36"](../../6/0/scanLinesVerbatim.R)
+is intended to replace
+["31"](./scanLinesVerbatim.R).
+
 Usage
 -----
 
@@ -52,3 +57,11 @@ Examples
     scanLinesVerbatim(text="trash\ntrash")
     # [1] "trash" "trash"
     
+History
+-------
+
+2021-02-10 created ["36"](../../6/0/scanLinesVerbatim.R) _intended to be used instead of "31"_
+
+2021-02-10 found non-trivial dependency in ["31"](./scanLinesVerbatim.R)
+
+["31"](./scanLinesVerbatim.R) _initial commit_
