@@ -18,7 +18,7 @@ apace (a package extractor)
 
 ## C
 
-character.array (interpret near-WYSIWYG text from R source)
+`character.array` (interpret near-WYSIWYG text from R source)
 [R](../../4/0/character.array.R)
 [doc](../../4/0/character.array.md)
 
@@ -33,11 +33,11 @@ coordinates, device and plot
 
 ## D
 
-divide. _See_ [idivisions](#idivisions)
+divide: _See_ [idivisions](#idivisions)
 
 ## F
 
-factorToCharacter.df \[
+`factorToCharacter.df` \[
 [R](../../5/0/factorToCharacter.df.R),
 [doc](../../5/0/factorToCharacter.df.md)
 \]
@@ -51,12 +51,12 @@ Split a contiguous sequence into subsequence.
 
 ## line (text)
 
-readLinesAt
+`readLinesAt`
 \[[R](../../1/3/0/readLinesAt.R)\]
 \[[doc](../../1/3/0/readLinesAt.md)\]
 Read arbitrary lines from an open connection.
 
-ffindlf
+`ffindlf`
 \[[R](../../1/3/0/ffindlf.R)\]
 \[[doc](../../1/3/0/ffindlf.md)\]
 Find file positions of line feed characters (ASCII 10).
@@ -94,6 +94,10 @@ Replace `NA`-values with zero-values.
 
 [rawrw](../../3/0/rawrw.R)
 
+read:
+_See_
+<a href="#scan">scan</a>
+
 [readRaw](../../5/0/readRaw.R)
 (see also writeRaw)
 
@@ -113,7 +117,7 @@ rm `NA`, [rmna](../../4/0/rmna.R)
 rm new-line, [rmnl](../../4/0/rmnl.R)
 
 <a id="rmnullstr"></a>
-rmnullstr
+`rmnullstr`
 \[[R](../../3/1/0/rmnullstr.R)\]
 \[[doc](../../3/1/0/rmnullstr.md)\]
 Remove null strings from a character vector.
@@ -126,17 +130,21 @@ remove zeroes, [rmz](../../4/0/rmz.R)
 
 ## S
 
-s3d7a, a generic S4 class:
+`s3d7a`, a generic S4 class:
 [s3d7a.br](../../3/0/s3d7a.br.R)
 [s3d7a](../../3/0/s3d7a.R)
 
-search. _See_ [mgrepl](#mgrepl), [mlsearch](#mlsearch).
+<a id="scan"></a>
+scan:
+[scanLinesVerbatim](../../3/1/0/scanLinesVerbatim.md) _Scan lines of text_
 
-sequences. _See_ [idivisions](#idivisions)
+search: _See_ [mgrepl](#mgrepl), [mlsearch](#mlsearch).
 
-source. _See_ [csource](#csource).
+sequences: _See_ [idivisions](#idivisions)
 
-string. _See_
+source: _See_ [csource](#csource).
+
+string: _See_
 <a href="#rmnullstr">rmnullstr</a>
 
 ## W
