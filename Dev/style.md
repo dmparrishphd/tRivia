@@ -83,13 +83,25 @@ Continue a multi-line list at _one additional_ indent, but do not  _further_ add
             B = 2 ,
                 C = 3 )
 
+Identifiers
+-----------
+
+Do not use spaces in identifiers, not even quoted ones.
+
+    # NOT PREFERRED #1
+    `variable name`
+    
+    # PREFERRED
+    variableName
+    variable.name
+    variable_name
+
 Definitions
 -----------
 
 Most of the code should be definitions.
 
     foo <- function ( arguments , ... ) {
-        
         invisible () }
 
 ----
