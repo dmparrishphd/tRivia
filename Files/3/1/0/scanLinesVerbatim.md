@@ -12,14 +12,14 @@ Usage
 -----
 
     scanLinesVerbatim(
-        file="",
-        n=-1,
-        skip=0,
-        quiet=TRUE,
-        fileEncoding="",
-        encoding="unknown",
-        text=character(),
-        skipNul=TRUE)
+        file = "",
+        n = -1,
+        skip = 0,
+        quiet = TRUE,
+        fileEncoding = "",
+        encoding = "unknown",
+        text = character(),
+        skipNul = TRUE)
         
 |       Argument | Description      |
 | -------------: | :--------------- |
