@@ -1,4 +1,5 @@
 #STATUS: IN PROGRESS
+#TODO: TRY cal(8, 2021) ## EXTRA WEEK AT BEGINNING
 #TODO: FORMAT LIKE UNIX cal PROGRAM
 #REF https://www.tutorialspoint.com/unix_commands/cal.htm
 
