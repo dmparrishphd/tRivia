@@ -1,5 +1,5 @@
 ijz.m <- function ( m )
         data.frame ( 
-	        arrayInd ( seq_along ( m ) , dim ( m ) ) ,
-	        as.vector ( m ) )
+	        `colnames<-` ( arrayInd ( seq_along ( m ) , dim ( m ) ) , c ( "i" , "j" ) ) ,
+	        z = as.vector ( m ) )
 
