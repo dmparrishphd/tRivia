@@ -8,5 +8,5 @@ CLASSIFICATION.CHART.PROTO <- list (
     as.data.frame = function ( . )
         data.frame (
             i = unlist ( .$.DATA ) ,
-            class = vectorize.classifications ( .$.DATA ) ) ,
+            y = vectorize.classifications ( .$.DATA ) ) ,
     .NULL = NULL )
