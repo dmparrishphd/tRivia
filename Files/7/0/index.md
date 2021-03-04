@@ -94,7 +94,9 @@ Replace `NA`-values with zero-values.
 
 ### Operators
 
-unary operators. _reate pseudo-unary operators_ \[[doc](https://github.com/dmparrishphd/home/blob/main/Files/CORW/0/PC.SF.AS.SF.LT.HY.PC.md)\]
+unary operators. _reate pseudo-unary operators_
+\[[doc](https://github.com/dmparrishphd/home/blob/main/Files/CORW/0/PC.SF.AS.SF.LT.HY.PC.md)\]
+(external link)
 
 
 ## R
