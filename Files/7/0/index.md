@@ -90,6 +90,11 @@ naTo0
 \[[doc](../../1/7/0/naTo0.md)\]
 Replace `NA`-values with zero-values.
 
+## O
+
+Create pseudo-Unary Operators \[[R](https://github.com/dmparrishphd/home/blob/main/Files/CORW/0/PC.SF.AS.SF.LT.HY.PC.md)\]
+
+
 ## R
 
 [rawrw](../../3/0/rawrw.R)
