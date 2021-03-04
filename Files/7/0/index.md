@@ -92,7 +92,9 @@ Replace `NA`-values with zero-values.
 
 ## O
 
-Create pseudo-Unary Operators \[[R](https://github.com/dmparrishphd/home/blob/main/Files/CORW/0/PC.SF.AS.SF.LT.HY.PC.md)\]
+### Operators
+
+unary operators. _reate pseudo-unary operators_ \[[R](https://github.com/dmparrishphd/home/blob/main/Files/CORW/0/PC.SF.AS.SF.LT.HY.PC.md)\]
 
 
 ## R
