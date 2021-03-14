@@ -4,6 +4,14 @@ By *protopackage*,
 I mean a file or files that is/are intended to be loaded with `source`
 (as opposed to `library`) and does _not_ need to be installed
 (in the `install.packages` sense).
+Some protopackages
+(like [topoSortNaive](https://github.com/dmparrishphd/neatOveRse/tree/master/Pkgs/1/4/0))
+attempt to
+[reproduce a structure](https://github.com/dmparrishphd/neatOveRse/blob/master/Pkgs/1/4/0/R/_ATTACH.R)
+similar to that created by `library`
+\[[1](http://adv-r.had.co.nz/Environments.html)\]
+\[[2](http://blog.obeautifulcode.com/R/How-R-Searches-And-Finds-Stuff/)\];
+others do not.
 
 ## What's wrong with Packages?
 
