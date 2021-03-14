@@ -1,0 +1,24 @@
+This collection of files is a protopackage (see also ./INSTALL).
+
+The _ATTACH.R file in the R subdirectory contains code to load
+and attach this proto package. To use, Replace
+
+    path
+
+(the letters _within_ the double quotes) in the SNIPPET below
+with the path to the install directory (see ./INSTALL) do _not_
+include a trailing solidus or slash (/) in the replacement text.
+
+    # SNIPPET:
+    DIR <- "path"
+    FILENAME <- paste0 ( DIR , "/R/_ATTACH.R" )
+    source ( FILENAME ) [[ 1 ]] ( DIR )
+
+For example, if this package is stored at "~/DIRECTORY",
+the RESULTANT SNIPPET would be
+
+    # RESULTANT SNIPPET:
+    DIR <- "~/DIRECTORY"
+    FILENAME <- paste0 ( DIR , "/R/_ATTACH.R" )
+    source ( FILENAME ) [[ 1 ]] ( DIR )
+    
