@@ -1,0 +1,11 @@
+Package: packagename
+Type: Package
+Title: package title
+Version: 0.0-0
+Date: YYYY-MM-DD
+Author: D. Michael Parrish [aut]
+Maintainer: Neat O <neatoverse@yahoo.com>
+Description: description
+    continuation of description
+License: GPL-2
+Encoding: UTF-8
