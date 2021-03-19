@@ -1,7 +1,7 @@
 rankorder <- function ( ... , na.last = TRUE , decreasing = FALSE ,
         method = eval ( formals ( order ) $ method ) ) {
+    method <- match.arg ( method ) # WANT THIS TO FAIL EARLY IF GOING TO FAIL
     `%|%` <- function ( x , f ) f ( x )
-    method <- match.arg ( method ) 
     X <- list ( ... )
     ARGC <- length ( X )
     na.last <- rep_len ( na.last , length.out = ARGC )
@@ -12,8 +12,7 @@ rankorder <- function ( ... , na.last = TRUE , decreasing = FALSE ,
         ties.method = "min" ,
         na.last = na.last [[ i ]] )
     LENGTH1 <- X [[ 1 ]] %|% length
-    vector. <- if ( LENGTH1 <= .Machine$integer.max ) integer else double
-    FUN.VALUE <- vector. ( LENGTH1 )
+    FUN.VALUE <- double ( LENGTH1 )
     Y <- vapply ( FUN = FUN , USE.NAMES = FALSE , X = X %|% seq_along ,
         FUN.VALUE = FUN.VALUE )
     args <- c ( method = method , Y %|% as.data.frame )
