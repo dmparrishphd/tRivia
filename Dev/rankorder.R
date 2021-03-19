@@ -1,6 +1,6 @@
 rankorder <- function ( ... , na.last = TRUE , decreasing = FALSE ,
         method = eval ( formals ( order ) $ method ) ) {
-    method <- match.arg ( method ) # WANT THIS TO FAIL EARLY IF GOING TO FAIL
+    method <- match.arg ( method ) # IF THIS FAILS, IT FAILS EARLY
     `%|%` <- function ( x , f ) f ( x )
     X <- list ( ... )
     ARGC <- length ( X )
