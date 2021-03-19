@@ -11,10 +11,8 @@ rankorder <- function ( ... , na.last = TRUE , decreasing = FALSE ,
         x = X [[ i ]] ,
         ties.method = "min" ,
         na.last = na.last [[ i ]] )
-    LENGTH1 <- X [[ 1 ]] %|% length
-    FUN.VALUE <- double ( LENGTH1 )
+    FUN.VALUE <- X [[ 1 ]] %|% length %|% double
     Y <- vapply ( FUN = FUN , USE.NAMES = FALSE , X = X %|% seq_along ,
         FUN.VALUE = FUN.VALUE )
-    args <- c ( method = method , Y %|% as.data.frame )
-    do.call ( order , args ) }
-    
+    ARGS <- c ( method = method , Y %|% as.data.frame )
+    do.call ( order , ARGS ) }
