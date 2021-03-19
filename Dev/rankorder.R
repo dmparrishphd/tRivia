@@ -1,7 +1,6 @@
 rankorder <- function ( ... , na.last = TRUE , decreasing = FALSE ,
         method = eval ( formals ( order ) $ method ) ) {
     method <- match.arg ( method ) # IF THIS FAILS, IT FAILS EARLY
-    `%|%` <- function ( x , f ) f ( x )
     X <- list ( ... )
     ARGC <- length ( X )
     na.last <- rep_len ( na.last , length.out = ARGC )
@@ -11,6 +10,7 @@ rankorder <- function ( ... , na.last = TRUE , decreasing = FALSE ,
         x = X [[ i ]] ,
         ties.method = "min" ,
         na.last = na.last [[ i ]] )
+    `%|%` <- function ( x , f ) f ( x )
     FUN.VALUE <- X [[ 1 ]] %|% length %|% double
     RANKS <- vapply (
         FUN = FUN ,
