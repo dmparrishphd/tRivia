@@ -101,7 +101,7 @@ unary operators. _reate pseudo-unary operators_
 ## P
 
 Protopackages.
-\[[a template](https://github.com/dmparrishphd/tRivia/blob/master/Files/3/7/0)\]
+\[[a template](../../3/7/0)\]
 
 ## R
 
