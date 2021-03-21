@@ -5,7 +5,15 @@ A Style Guide for R Source Code
 
 ----
 
-*Disclaimer:* These are merely _ideas_, _not_ recommendations.
+**Disclaimer:** These are merely _ideas_, _not_ recommendations.
+
+Character Set
+-------------
+
+Do not include characters other than the printing ASCII characters (including space) and the two ASCII control characters `CR` and / or `LF`.
+
+The printing [ASCII characters](https://en.wikipedia.org/wiki/ASCII)
+have codes 32 through 126.
 
 Parsing
 -------
