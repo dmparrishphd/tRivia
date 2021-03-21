@@ -12,6 +12,8 @@ Character Set
 
 Do not include characters other than the printing ASCII characters (including space) and the two ASCII control characters `CR` and / or `LF`.
 
+[Why only two control characters and only one non-graphic, printing character?](https://github.com/dmparrishphd/Related/blob/master/Files/CORW/0/characterSet.md)
+
 The printing [ASCII characters](https://en.wikipedia.org/wiki/ASCII)
 have codes 32 through 126.
 
