@@ -42,6 +42,14 @@ Value
 
 A `list` containing `data.frames` representing the data read.
 
+Warnings
+--------
+
+Expect strange results if there are any duplicate (column) names or row names.
+Suggestion: remove any duplicate (column) names or row names
+from consideration by listing them in `nonames` and/or `norownames`
+(see also _norownames_ and _nonames_, below.)
+
 Details
 -------
 
