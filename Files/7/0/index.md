@@ -49,6 +49,10 @@ divide: _See_ [idivisions](#idivisions)
 \[[doc](../../1/7/0/idivisions.md)\]
 Split a contiguous sequence into subsequence.
 
+## line (geometry)
+
+[trendline](../../5/0/tendline.md)
+
 ## line (text)
 
 `readLinesAt`
