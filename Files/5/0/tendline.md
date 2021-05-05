@@ -25,3 +25,8 @@ Details
 -------
 
 Internally, the best fit line is computed from `lm( y ~ x )`.
+
+Code
+----
+
+["5"](./trendline.R)
