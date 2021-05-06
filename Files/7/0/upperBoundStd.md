@@ -17,3 +17,8 @@ Value
 -----
 
 One element of `bounds`.
+
+News
+----
+
+["7"](./upperBoundStd.R) _created 2021-05-06_
