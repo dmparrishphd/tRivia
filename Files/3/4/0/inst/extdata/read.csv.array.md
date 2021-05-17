@@ -83,6 +83,9 @@ specified by the first seven arguments (i.e., `X`, `n`, `sep`,
 `norownames`, `nonames`, `row.names`, and `.names`).
 A future version of `csvcsv` might be less strict.
 
+The first column of `nocell` shold have row names.
+The second column of `nocell` should have (column) names.
+
 ### readRownames, readHeaderNoRownames, readTable
 
 `readRownames`, `readHeaderNoRownames`, and `readTable` are
