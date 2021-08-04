@@ -8,7 +8,7 @@ List of Packages
 - rawrw (0.0-0) Read and write `raw` vectors.
 - rmALLTHE (0.0-0, 0.1-0) Remove various kinds of elements.
 - s3d7a (0.0-0) A generic object.
-- zeroone (0.0-0) Special values: simple combinations of zero (`0L`) and one (`0L`).
+- zeroone (0.0-0) Special values: simple combinations of zero (`0L`) and one (`1L`).
 
 "1" [zeroone](../../../1/0) Special integer vectors.
 
